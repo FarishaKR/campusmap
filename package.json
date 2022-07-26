@@ -1,6 +1,6 @@
 {
   "name": "navbar-dropdown-v1",
-    "homepage": "https://FarishaKR.github.io/campusmap",
+  "homepage": "https://FarishaKR.github.io/campusmap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
